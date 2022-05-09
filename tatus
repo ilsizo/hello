@@ -1,0 +1,36 @@
+[33mcommit b2d6331887d9a0b1dd28aa78b9a1ba11c58d8b90[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: 6e052fe 97c8eb5
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon May 9 15:54:54 2022 +0700
+
+    Merge branch 'develop' of https://github.com/ilsizo/hello into develop
+
+[33mcommit 97c8eb5a36078ce271d475088f4422822033ae4e[m[33m ([m[1;31morigin/feature/SONGKRAN_REGISTER[m[33m, [m[1;31morigin/feature/SONGKRAN_REGIS[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: ilsizo <songkran.edarkdcrow@hotmail.com>
+Date:   Mon May 9 15:34:58 2022 +0700
+
+    add register
+
+[33mcommit 6e052fe09315b9cba203152c2595037ff69b5369[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon May 9 15:25:37 2022 +0700
+
+    test agagin
+
+[33mcommit 78a861fc3462c01e77e8d7efd8179a95d4b550fb[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon May 9 15:19:16 2022 +0700
+
+    Tum add file
+
+[33mcommit 9100944951ecde146565f89d2f2ee122abc4ee79[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon May 9 15:11:31 2022 +0700
+
+    try to edit hello.txt
+
+[33mcommit 8b95f7999d88f18a0e3196d997e6cb4648a3cbfa[m[33m ([m[1;31morigin/feature/QA[m[33m)[m
+Author: ilsizo <songkran.edarkdcrow@hotmail.com>
+Date:   Mon May 9 15:07:20 2022 +0700
+
+    first commit
